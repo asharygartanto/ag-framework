@@ -1,7 +1,9 @@
 # ag-framework for mobile automation testing
 
 An automation mobile testing framework based on python(3.8) and Appium (latest). This development based on QA experience, that want to easily create mobile testing automation. 
-Then I try to make it easier for each line and step inspired by robotframework that used for web. AG stand for automation great, or automation gartanto or ashary gartanto haha :D Step :
+Then I try to make it easier for each line and step inspired by robotframework that used for web. AG stand for automation great, or automation gartanto or ashary gartanto haha :D 
+
+# And the Steps are :
 
 1. install python 3.8
 2. install Appium client (pip install Appium-Python-Client)
