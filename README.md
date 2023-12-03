@@ -6,11 +6,12 @@ Then I try to make it easier for each line and step inspired by robotframework t
 # And the Steps are :
 
 1. install python 3.8
-2. install Appium client (pip install Appium-Python-Client)
-3. install ag-framework --> https://test.pypi.org/project/ag-framework/0.1.2/
+2. install android studio or adb emulator --> for emulator
+3. install Appium client (pip install Appium-Python-Client)
+4. install ag-framework --> https://test.pypi.org/project/ag-framework/0.1.2/
    
    'pip install -i https://test.pypi.org/simple/ ag-framework==0.1.2' --> for this release will be updated later
-4. Add in main.py :
+5. Add in main.py :
    
     import library :
    
