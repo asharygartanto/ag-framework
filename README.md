@@ -203,4 +203,4 @@ multi comment
   Send_Enter_Text_Focus: Send the Enter key to the currently focused element.
   
 Authors
-@asharygartanto
+# @asharygartanto
